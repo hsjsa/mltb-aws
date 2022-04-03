@@ -27,6 +27,6 @@ https://github.com/root-test7/speedy/archive/refs/heads/master.zip
 telegraph
 tenacity
 TgCrypto
-torrentool==1.1.0
+torrentool
 urllib3
 https://github.com/Anshusharma75/prabhu/archive/refs/heads/master.zip

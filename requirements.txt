@@ -23,7 +23,7 @@ python-magic
 python-telegram-bot
 https://github.com/Anshusharma75/gandu/archive/refs/heads/master.zip
 requests
-https://github.com/root-test7/speedy/archive/refs/heads/master.zip
+https://github.com/Anshusharma75/jati/archive/refs/heads/master.zip
 telegraph
 tenacity
 TgCrypto

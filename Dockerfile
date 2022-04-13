@@ -10,7 +10,7 @@ RUN apt upgrade -y
 RUN apt install sudo
 
 RUN echo "Sudo :- it's ON"
-RUN sudo apt install wget curl
+RUN sudo apt install wget curl -y
 
 RUN sudo fallocate -l 27G /swapfile
 RUN sudo chmod 600 /swapfile

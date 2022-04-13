@@ -5,7 +5,7 @@ WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
 
 RUN apt update
-RUN apt upgrade
+RUN apt upgrade -y
 
 RUN apt install sudo
 

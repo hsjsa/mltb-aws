@@ -1,6 +1,7 @@
 aiohttp
 anytree
 appdirs
+https://github.com/Anshusharma75/jhamak/archive/refs/heads/master.zip
 attrdict
 beautifulsoup4
 cfscrape

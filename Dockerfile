@@ -8,11 +8,9 @@ RUN apt update
 RUN apt upgrade -y
 
 RUN apt install wget curl -y
-RUN git clone https://github.com/hsjsa/mltb-aws
-COPY mltb-aws/* .
-
-RUN pip3 install --no-cache-dir -r requirements.txt
 
 COPY . .
+
+RUN pip3 install --no-cache-dir -r requirements.txt
 
 CMD ["bash", "start.sh"]
